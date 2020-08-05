@@ -1,0 +1,10 @@
+
+.category{
+    list-style-type: disc;
+}
+.category li{
+    color:rgb(78, 42, 29);
+    margin-left: 55px;
+    font-weight: bold;
+    font-size: 20px;
+}

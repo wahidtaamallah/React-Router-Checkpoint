@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 30px 10px;
+}
+.nav_Link{
+    list-style: none;
+}
+ li {
+    display: block;
+    padding: 30px ;
+    float: left;
+    background-color:rgb(201, 85, 85);
+}
+li:last-child{
+    border: none;
+}
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 0px 50px;
+text-decoration: none;
+}
